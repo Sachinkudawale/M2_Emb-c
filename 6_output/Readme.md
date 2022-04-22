@@ -1,5 +1,5 @@
 
-A Door sensor is connected to bit 1 of port B, and an led is connected to bit 6 of port c. Wwrite an avr c programe to monitor the door sensor and , when it opens, turns on LED without changing the state of others pins.
+A Door sensor is connected to bit 1 of port B,and an led is connected to bit 6 of port c.Write an avr c programe to monitor the door sensor and when it opens,turns on LED without changing the state of others pins.
 
 # final output
 ## door close
